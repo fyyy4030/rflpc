@@ -4,7 +4,7 @@ This library allows development on a LPC17xx board from NXP.
 The release includes configuration for the MBED platform which uses a LPC1768.
 
 Documentation is available at http://hauspie.github.com/rflpc
-
+https://hauspie.github.io/rflpc/doc/group__iap.html
 It includes:
 - Linker script and board initialization code
 - Drivers for several peripherals
